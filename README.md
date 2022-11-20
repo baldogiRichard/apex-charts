@@ -99,6 +99,16 @@ from APEXCHARTS_LINE</code></pre>
 <b>Combo chart attributes</b>
 <p>When you specify a combo chart in the "Type" attribute a type and name column must be specified for the plug-in to generate multiple charts in the display area.</p>
 
+<b>Toolbar features</b>
+<p>Make the chart more flexible and interactive by selecting the following features</p>
+<ul>
+       <li>Download</li>
+       <li>Selection</li>
+       <li>Zoom</li>
+       <li>Pan: Moves the chart left or right </li>
+       <li>Reset: Resets the chart to its original display</li>
+</ul>
+
 <b>Customizing the interactive charts region</b>
 
 Developers can customize their charts by specifying a function in the Javascript Initialization Code section
