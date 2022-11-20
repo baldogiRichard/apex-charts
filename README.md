@@ -109,6 +109,11 @@ from APEXCHARTS_LINE</code></pre>
        <li>Reset: Resets the chart to its original display.</li>
 </ul>
 
+<img width="143" alt="image" src="https://user-images.githubusercontent.com/100072414/202906719-2682cacc-d1c6-45cf-be9b-c2d9307ce31c.png">
+
+<b>Synchronize charts</b>
+<p>Charts can be synchronized to change the content of the plotarea.</p>
+
 <b>Customizing the interactive charts region</b>
 
 Developers can customize their charts by specifying a function in the Javascript Initialization Code section
