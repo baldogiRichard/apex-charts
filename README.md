@@ -148,7 +148,3 @@ For more options please check the <a href="https://apexcharts.com/docs/" rel="no
 #
 
 License MIT
-
-![apexcharts](https://user-images.githubusercontent.com/100072414/202920586-fbd761f5-b34a-4b80-a7b2-b572eeae03af.gif)
-
-
