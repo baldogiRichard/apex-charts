@@ -36,9 +36,23 @@ from APEXCHARTS_LINE</code></pre>
 <u>JSON example:</u>
 
 <pre><code>series: 
-[
+"series": [
     {
-        "name": "line_chart_3",
+        "name": "Session Duration",
+        "type": "line",
+        "data": [
+            {
+                "x": "2017.02.11",
+                "y": 43
+            },
+            {
+                "x": "2017.02.12",
+                "y": 56
+            }
+        ]
+    },
+    {
+        "name": "Page Views",
         "type": "line",
         "data": [
             {
@@ -48,10 +62,20 @@ from APEXCHARTS_LINE</code></pre>
             {
                 "x": "2017.02.12",
                 "y": 17
+            }
+        ]
+    },
+    {
+        "name": "Total Visits",
+        "type": "line",
+        "data": [
+            {
+                "x": "2017.02.11",
+                "y": 10
             },
             {
-                "x": "2017.02.13",
-                "y": 23
+                "x": "2017.02.12",
+                "y": 36
             }
         ]
     }
