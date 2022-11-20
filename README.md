@@ -8,4 +8,4 @@ This plug-in provides a region where you can display different kinds of interact
 
 Minimum requirement: Oracle Application Expresss 20.2
 
-This plug-in uses the <a href="https://apexcharts.com/" rel="nofollow">ApexCharts.js</a> and the <a href="https://github.com/yuku/textcomplete" rel="nofollow">YUKU textcomplete</a> and the <a href="https://momentjs.com/" rel="nofollow">Moment.js</a> library.
+This plug-in uses the <a href="https://apexcharts.com/" rel="nofollow">ApexCharts.js</a> and the <a href="https://momentjs.com/" rel="nofollow">Moment.js</a> library.
