@@ -64,24 +64,24 @@ Developers can customize their charts by specifying a function in the Javascript
 
 Example:
 
-function(config){
+    function(config){
     
-    config.stroke = {
-          width: [5, 7, 5],
-          curve: 'straight',
-          dashArray: [0, 8, 5]
-    };
+           config.stroke = {
+                 width: [5, 7, 5],
+                 curve: 'straight',
+                 dashArray: [0, 8, 5]
+           };
 
-    config.legend = {
-        tooltipHoverFormatter: function(val, opts) {
-            return val + ' - ' + opts.w.globals.series[opts.seriesIndex][opts.dataPointIndex] + ''
-        }
-    };
+           config.legend = {
+               tooltipHoverFormatter: function(val, opts) {
+                   return val + ' - ' + opts.w.globals.series[opts.seriesIndex][opts.dataPointIndex] + ''
+               }
+           };
 
-    config.markers = {size: 0, hover: {sizeOffset: 6}};
+           config.markers = {size: 0, hover: {sizeOffset: 6}};
 
-    return config;
-}
+           return config;
+    }
 
 For more options please check the <a href="https://apexcharts.com/docs/" rel="nofollow">ApexCharts Documentation</a> Options (Reference) section.
 
