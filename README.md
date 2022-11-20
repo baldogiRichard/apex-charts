@@ -61,23 +61,22 @@ You can check each setup in my downloadable <a href="https://github.com/baldogiR
 <b>Customizing the interactive charts region</b>
 
 Developers can customize their charts by specifying a function in the Javascript Initialization Code section
+
+Example:
+
 <code><pre>
-function(config){
-    
+function(config){    
     config.stroke = {
           width: [5, 7, 5],
           curve: 'straight',
           dashArray: [0, 8, 5]
     };
-
     config.legend = {
         tooltipHoverFormatter: function(val, opts) {
             return val + ' - ' + opts.w.globals.series[opts.seriesIndex][opts.dataPointIndex] + ''
         }
     };
-
     config.markers = {size: 0, hover: {sizeOffset: 6}};
-
     return config;
 }
 </code></pre>
