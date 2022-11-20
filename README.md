@@ -17,7 +17,7 @@ This plug-in uses the <a href="https://apexcharts.com/" rel="nofollow">ApexChart
 
 You can check each setup in my downloadable <a href="https://github.com/baldogiRichard/plug-in-site" rel="nofollow">Sample Application: APEX Plug-ins by Richard Baldogi</a>
 
-<b>Gradient Line Chart example</b>
+<b>Dashed Line Chart example</b>
 
 <u>Query example:</u>
 
@@ -71,6 +71,9 @@ from APEXCHARTS_LINE</code></pre>
 <p>When working with array type charts you can specify a comma separated list of columns for the Y axis which will generate an array of values</p>
 
 <img width="143" alt="image" src="https://user-images.githubusercontent.com/100072414/202905387-8308cd9d-69a7-4ab0-b905-a13d96a6c5b2.png">
+
+<b>Combo chart attributes</b>
+<p>When you specify a combo chart in the "Type" attribute a type and name column must be specified for the plug-in to generate multiple charts in the display area.</p>
 
 <b>Customizing the interactive charts region</b>
 
