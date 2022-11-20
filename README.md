@@ -99,6 +99,8 @@ from APEXCHARTS_LINE</code></pre>
 <b>Combo chart attributes</b>
 <p>When you specify a combo chart in the "Type" attribute a type and name column must be specified for the plug-in to generate multiple charts in the display area.</p>
 
+<img width="143" alt="image" src="https://user-images.githubusercontent.com/100072414/202906938-30d7cb83-b417-4043-98fb-1f9326973743.png">
+
 <b>Toolbar features</b>
 <p>Make the chart more flexible and interactive by selecting the following features</p>
 <ul>
@@ -113,6 +115,8 @@ from APEXCHARTS_LINE</code></pre>
 
 <b>Synchronize charts</b>
 <p>Charts can be synchronized to change the content of the plotarea or display multiple tooltip data together.</p>
+
+<img width="143" alt="image" src="https://user-images.githubusercontent.com/100072414/202906915-65cac14a-54a1-4634-b5a0-fb73300d9cd2.png">
 
 <b>Customizing the interactive charts region</b>
 
