@@ -22,7 +22,7 @@ You can check each setup in my downloadable <a href="https://github.com/baldogiR
 Developers can customize their charts by specifying a function in the Javascript Initialization Code section
 
 
-For more options please check the <a href="https://apexcharts.com/docs/" rel="nofollow">ApexCharts Documentation</a> API.
+For more options please check the <a href="https://apexcharts.com/docs/" rel="nofollow">ApexCharts Documentation</a> Options (Reference) section.
 
 #
 
