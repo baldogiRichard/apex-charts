@@ -114,7 +114,7 @@ from APEXCHARTS_LINE</code></pre>
 <img width="143" alt="image" src="https://user-images.githubusercontent.com/100072414/202906719-2682cacc-d1c6-45cf-be9b-c2d9307ce31c.png">
 
 <b>Synchronize charts</b>
-<p>Charts can be synchronized to change the content of the plotarea or display multiple tooltip data together.</p>
+<p>Charts can be synchronized to animate the content of the plotarea or display multiple tooltip table in the synchronized charts together.</p>
 
 <img width="143" alt="image" src="https://user-images.githubusercontent.com/100072414/202906915-65cac14a-54a1-4634-b5a0-fb73300d9cd2.png">
 
