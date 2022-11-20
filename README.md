@@ -102,10 +102,10 @@ from APEXCHARTS_LINE</code></pre>
 <b>Toolbar features</b>
 <p>Make the chart more flexible and interactive by selecting the following features</p>
 <ul>
-       <li>Download</li>
-       <li>Selection</li>
-       <li>Zoom</li>
-       <li>Pan: Moves the chart left or right </li>
+       <li>Download: The chart can be downloaded in different formats (SVG,PNG,CSV)</li>
+       <li>Selection: Select a specific region in the X or Y axis of the chart.</li>
+       <li>Zoom: Zoom in and out to gain more insight when analyzing your chart.</li>
+       <li>Pan: Moves the chart plotarea left or right.</li>
        <li>Reset: Resets the chart to its original display</li>
 </ul>
 
