@@ -24,4 +24,4 @@ For more options please check the <a href="https://apexcharts.com/docs/" rel="no
 
 #
 
-MIT
+License MIT
