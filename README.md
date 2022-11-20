@@ -19,8 +19,7 @@ This plug-in uses the <a href="https://apexcharts.com/" rel="nofollow">ApexChart
 
 Query example:
 
-<pre><code>
-select ID,
+<pre><code>select ID,
        to_char(to_date(CATEGORY,'mm.dd.yyyy'),'yyyy.mm.dd') as CATEGORY,
        case when CHARTNAME = 'synch1'
                then 'Total Visits'
