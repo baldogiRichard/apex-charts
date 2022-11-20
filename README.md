@@ -64,9 +64,6 @@ Developers can customize their charts by specifying a function in the Javascript
 
 Example:
 
-
-<code><pre>
-
 function(config){
     
     config.stroke = {
@@ -85,8 +82,6 @@ function(config){
 
     return config;
 }
-
-</code></pre>
 
 For more options please check the <a href="https://apexcharts.com/docs/" rel="nofollow">ApexCharts Documentation</a> Options (Reference) section.
 
