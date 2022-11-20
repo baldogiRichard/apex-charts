@@ -58,6 +58,14 @@ from APEXCHARTS_LINE</code></pre>
 ]
 </code></pre>
 
+<b>Settings</b>
+
+<img width="100" alt="image" src="https://user-images.githubusercontent.com/100072414/202905123-c7d91798-6145-4ac4-99cb-6723007f3b9d.png">
+
+<b>Array type charts</b>
+<p>When working with array type charts you can specify a comma separated list of columns for the Y axis</p>
+<p>which will generate an array of values</p>
+
 <b>Customizing the interactive charts region</b>
 
 Developers can customize their charts by specifying a function in the Javascript Initialization Code section
