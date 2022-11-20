@@ -63,6 +63,8 @@ from APEXCHARTS_LINE</code></pre>
 Developers can customize their charts by specifying a function in the Javascript Initialization Code section
 
 Example:
+
+
 <code><pre>
 function(config){
     
