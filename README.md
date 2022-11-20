@@ -15,7 +15,7 @@ This plug-in uses the <a href="https://apexcharts.com/" rel="nofollow">ApexChart
 
 # setup
 
-<b>Dashed Line Chart example</b>
+<b>Gradient Line Chart example</b>
 
 <u>Query example:</u>
 
@@ -32,6 +32,31 @@ This plug-in uses the <a href="https://apexcharts.com/" rel="nofollow">ApexChart
 from APEXCHARTS_LINE</code></pre>
 
 <u>JSON example:</u>
+
+<pre><code>
+
+series: 
+[
+    {
+        "name": "line_chart_3",
+        "type": "line",
+        "data": [
+            {
+                "x": "2017.02.11",
+                "y": 15
+            },
+            {
+                "x": "2017.02.12",
+                "y": 17
+            },
+            {
+                "x": "2017.02.13",
+                "y": 23
+            }
+        ]
+    }
+]
+</code></pre>
 
 You can check each setup in my downloadable <a href="https://github.com/baldogiRichard/plug-in-site" rel="nofollow">Sample Application: APEX Plug-ins by Richard Baldogi</a>
 
