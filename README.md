@@ -19,17 +19,17 @@ This plug-in uses the <a href="https://apexcharts.com/" rel="nofollow">ApexChart
 
 Query example:
 
-select ID,
-       to_char(to_date(CATEGORY,'mm.dd.yyyy'),'yyyy.mm.dd') as CATEGORY,
-       case when CHARTNAME = 'synch1'
-             then 'Total Visits'
-            when CHARTNAME = 'sync2'
-             then 'Page Views'
-            else 'Session Duration'
-       end as CHARTNAME,
-       VALUE,
-       'line' as COMBO_TYPE
-from APEXCHARTS_LINE
+<pre><code>select ID,
+           to_char(to_date(CATEGORY,'mm.dd.yyyy'),'yyyy.mm.dd') as CATEGORY,
+           case when CHARTNAME = 'synch1'
+                  then 'Total Visits'
+                when CHARTNAME = 'sync2'
+                  then 'Page Views'
+                else 'Session Duration'
+           end as CHARTNAME,
+           VALUE,
+           'line' as COMBO_TYPE
+       from APEXCHARTS_LINE</code></pre>
 
 JSON example:
 
