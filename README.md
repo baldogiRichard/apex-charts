@@ -65,6 +65,8 @@ from APEXCHARTS_LINE</code></pre>
 <b>Title attributes</b>
 <p>You can specify a title for category (X) and Value (Y) axis</p>
 
+<img width="143" alt="image" src="https://user-images.githubusercontent.com/100072414/202905705-6f2480c0-d471-47c5-a739-27bf56e625f6.png">
+
 <b>Array type charts</b>
 <p>When working with array type charts you can specify a comma separated list of columns for the Y axis which will generate an array of values</p>
 
