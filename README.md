@@ -17,7 +17,7 @@ This plug-in uses the <a href="https://apexcharts.com/" rel="nofollow">ApexChart
 
 <b>Dashed Line Chart example</b>
 
-Query example:
+<u>Query example:</u>
 
 <pre><code>select ID,
        to_char(to_date(CATEGORY,'mm.dd.yyyy'),'yyyy.mm.dd') as CATEGORY,
@@ -31,7 +31,7 @@ Query example:
        'line' as COMBO_TYPE
 from APEXCHARTS_LINE</code></pre>
 
-JSON example:
+<u>JSON example:</u>
 
 You can check each setup in my downloadable <a href="https://github.com/baldogiRichard/plug-in-site" rel="nofollow">Sample Application: APEX Plug-ins by Richard Baldogi</a>
 
