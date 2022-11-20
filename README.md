@@ -63,7 +63,6 @@ You can check each setup in my downloadable <a href="https://github.com/baldogiR
 Developers can customize their charts by specifying a function in the Javascript Initialization Code section
 
 Example:
-
 <code><pre>
 function(config){
     
