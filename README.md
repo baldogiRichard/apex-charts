@@ -5,7 +5,6 @@ This repository contains the files for the apexcharts APEX Plug-in.
 
 <img width="695" alt="image" src="https://user-images.githubusercontent.com/100072414/202902450-fa81c2a6-2edb-430a-8a14-6926c72fc542.png">
 
-
 Oracle Application Express - Interactive Charts plugin
 
 This plug-in provides a region where you can display different kinds of interactive charts.
@@ -13,3 +12,7 @@ This plug-in provides a region where you can display different kinds of interact
 Minimum requirement: Oracle Application Expresss 20.2
 
 This plug-in uses the <a href="https://apexcharts.com/" rel="nofollow">ApexCharts.js</a> and the <a href="https://momentjs.com/" rel="nofollow">Moment.js</a> library.
+
+# setup
+
+You can check each setup in my <a href="https://apexcharts.com/" rel="nofollow">Sample Application: APEX Plug-ins by Richard Baldogi/a>
