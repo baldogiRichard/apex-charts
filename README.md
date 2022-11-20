@@ -3,6 +3,9 @@ This repository contains the files for the apexcharts APEX Plug-in.
 
 <img width="697" alt="image" src="https://user-images.githubusercontent.com/100072414/202902389-559b2074-5f76-4702-9112-a59262d81009.png">
 
+<img width="695" alt="image" src="https://user-images.githubusercontent.com/100072414/202902450-fa81c2a6-2edb-430a-8a14-6926c72fc542.png">
+
+
 Oracle Application Express - Interactive Charts plugin
 
 This plug-in provides a region where you can display different kinds of interactive charts.
