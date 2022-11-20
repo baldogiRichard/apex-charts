@@ -35,7 +35,7 @@ from APEXCHARTS_LINE</code></pre>
 
 <u>JSON example:</u>
 
-<pre><code>series: 
+<pre><code>
 "series": [
     {
         "name": "Session Duration",
